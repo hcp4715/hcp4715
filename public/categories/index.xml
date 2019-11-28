@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Dr. Chuan-Peng Hu</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Dr. Chuan-Peng Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2019 02:13:27 +0800</lastBuildDate>
+    
+	    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modelling</title>
+      <link>/categories/modelling/</link>
+      <pubDate>Mon, 29 Apr 2019 02:13:27 +0800</pubDate>
+      
+      <guid>/categories/modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>方法</title>
+      <link>/categories/%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Mon, 29 Apr 2019 02:13:27 +0800</pubDate>
+      
+      <guid>/categories/%E6%96%B9%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodology</title>
+      <link>/categories/methodology/</link>
+      <pubDate>Wed, 14 Mar 2018 06:36:08 +0800</pubDate>
+      
+      <guid>/categories/methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Neuroscience</title>
+      <link>/categories/social-neuroscience/</link>
+      <pubDate>Wed, 14 Mar 2018 06:36:08 +0800</pubDate>
+      
+      <guid>/categories/social-neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

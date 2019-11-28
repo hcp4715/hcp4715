@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Dr. Chuan-Peng Hu</title>
+    <link>/tags/python/</link>
+    <description>Recent content in python on Dr. Chuan-Peng Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2019 02:13:27 +0800</lastBuildDate>
+    
+	    <atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to install and use HDDM</title>
+      <link>/post/2019-04-29-how-to-install-and-use-hddm/</link>
+      <pubDate>Mon, 29 Apr 2019 02:13:27 +0800</pubDate>
+      
+      <guid>/post/2019-04-29-how-to-install-and-use-hddm/</guid>
+      <description>
+
+&lt;p&gt;HDDM is a python package for drift diffusion model (DDM, see &lt;a href=&#34;http://ski.clps.brown.edu/hddm_docs/&#34; target=&#34;_blank&#34;&gt;http://ski.clps.brown.edu/hddm_docs/&lt;/a&gt;). I used it to decompose the reaction time and accuracy data in my recent manuscript: &lt;a rel=&#34;noreferrer noopener&#34; aria-label=&#34;Good Me Bad Me: Does Valence Influence Self-Prioritization During Perceptual Decision-Making (opens in a new tab)&#34; href=&#34;https://psyarxiv.com/9fczh&#34; target=&#34;_blank&#34;&gt;Good Me Bad Me: Does Valence Influence Self-Prioritization During Perceptual Decision-Making&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here is the tips on how to install and use HDDM, in case that you are willing to replicate my analyses using the code and data I share &lt;a rel=&#34;noreferrer noopener&#34; aria-label=&#34;here on Github (opens in a new tab)&#34; href=&#34;https://github.com/hcp4715/moralSelf_ddm&#34; target=&#34;_blank&#34;&gt;here on Github&lt;/a&gt;. This post is written to help window users because I assume that for most Linux users, you, in the most cases, can figure out how to install and use this package, at least with the help from the online forum (&lt;a href=&#34;https://groups.google.com/forum/#!forum/hddm-users&#34; target=&#34;_blank&#34;&gt;https://groups.google.com/forum/#!forum/hddm-users&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;My system information: Win 10 pro, 64 bit, 16 GB RAM&lt;/p&gt;
+
+&lt;h3 id=&#34;step-1-prepare-the-python-environment&#34;&gt;Step 1: prepare the python environment:&lt;/h3&gt;
+
+&lt;p&gt;1.1. Download and install Anaconda 3.6 or 3.7 from &lt;a href=&#34;https://www.anaconda.com/distribution/&#34; target=&#34;_blank&#34;&gt;https://www.anaconda.com/distribution/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;1.2. Create virtue python 3.5 environment.&lt;/p&gt;
+
+&lt;p&gt;To do that, you need first run &lt;em&gt;&lt;strong&gt;Anaconda Prompt&lt;/strong&gt;&lt;/em&gt; ****, which will be available after you installed Anaconda, as administrator, then run the following code:&lt;/p&gt;
+
+&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;conda create -vv -n py35 python=3.5 jupyter  # py35 is the name of the environment, which can be arbitrary &lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;1.3. Activate the py35 env. :&lt;/p&gt;
+
+&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;# To activate this environment, use:
+
+conda activate py35
+
+# To deactivate an active environment, use:
+conda deactivate&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;step-2-install-hddm&#34;&gt;&lt;strong&gt;Step 2: install HDDM&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Now you have a python 3.5 environment, you can then install the HDDM package. Of course, you need to activate the py35 environment first. Then:&lt;/p&gt;
+
+&lt;p&gt;2.1. Install HDDM by following code:&lt;/p&gt;
+
+&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;conda install -c pymc hddm  # (or conda install -c pymc python=3.5 hddm )
+-proceed?: y&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;2.2. Update kabuki, which is crucial package that HDDM depends on, to 0.6.2, otherwise models can not be saved). You can check the version of kabuki to make sure you do have installed 0.6.2&lt;/p&gt;
+
+&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;pip install -U --no-deps kabuki --ignore-installed
+
+conda list # check the version of kabuki &lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;step-3-use-hddm&#34;&gt;&lt;strong&gt;Step 3: use HDDM&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Now, we almost ready to go. But we still need an editor for the python scripts. I used both jupyter lab (an updated version of jupyter lab) and spyder. The script files of the former ends with &amp;#8220;.ipynb&amp;#8221;, the script files of the later one end with &amp;#8220;.py&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;To use jupyter lab, for exampe, you need to install jupyter lab in your py35 env. As follows:&lt;/p&gt;
+
+&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;conda install jupyter lab&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;After that, changing the working directory of &lt;em&gt;anaconda prompt&lt;/em&gt; to the folder where you store the script files and data, and type &lt;em&gt;jupyter lab&lt;/em&gt; to open run jupyter lab. Note the (weird) way to change directly in windows system.&lt;/p&gt;
+
+&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;cd /d c:\goodme\2_pilot_study\Results\4_hddm\  # in windows you have to add /d to change the directory
+
+# run in jupyter lab or jupyter note book, for stim-based modelling
+
+jupyter lab #(or jupyter notebook if you use jupyter notebook)  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Similarly, to run in spyder, you need to install spyder in this py35 env.&amp;nbsp;&lt;/p&gt;
+
+&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;conda install spyder&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then, type &lt;em&gt;spyder&lt;/em&gt; to activate spyder&lt;/p&gt;
+
+&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;spyder # you will need to change the working directory in the script.&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Final note: I know that there exist &lt;em&gt;the curse of knowledge&lt;/em&gt;, which implies that I may assume that you have the knowledge which I know but you don&amp;#8217;t. So please free feel to post comment or shout out on twitter (@hcp4715) to let me know if you encountered any problem when reproducing my analyses.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

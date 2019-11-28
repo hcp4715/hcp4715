@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle Ratner on Dr. Chuan-Peng Hu</title>
+    <link>/authors/kyle-ratner/</link>
+    <description>Recent content in Kyle Ratner on Dr. Chuan-Peng Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/kyle-ratner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data from the Human Penguin Project, a cross-national dataset testing principles from social thermoregulation theory</title>
+      <link>/publication/journal-article/hu-et-al.-2019-sci_data/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/hu-et-al.-2019-sci_data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Human Penguin Project: Climate, Social Integration, and Core Body Temperature</title>
+      <link>/publication/journal-article/ijzerman-et-al.-2018-collabra/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/ijzerman-et-al.-2018-collabra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
