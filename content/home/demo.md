@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Know Thyself"
-subtitle = ""
+subtitle = "(Hu)man is the measure of all things, but, what is the measure of human?"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -30,7 +30,7 @@ subtitle = ""
   
   # Background image.
   image = "headers/2014_winter_sm.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -46,7 +46,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Welcome to the **personal academic page** of Chuan-Peng Hu.
-        
-- (Hu)man is the measure of all things, but, what is the measure of all humans?
