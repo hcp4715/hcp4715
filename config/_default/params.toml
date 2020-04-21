@@ -137,7 +137,7 @@ sharing = true
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  date_format = "2006-01-02"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
@@ -168,3 +168,8 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
+
+  # Link the title of the publication to the publication
+  links_title = false
+  # Link the authors of the publication to the list of publication made by this author
+  links_authors = false

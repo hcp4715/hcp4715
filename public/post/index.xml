@@ -1,214 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Dr. Chuan-Peng Hu</title>
+    <title>Posts on Dr. Chuan-Peng Hu (胡传鹏)</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Dr. Chuan-Peng Hu</description>
+    <description>Recent content in Posts on Dr. Chuan-Peng Hu (胡传鹏)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 02:13:27 +0800</lastBuildDate>
     
 	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Writing technical content in Academic</title>
-      <link>/post/writing/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/writing/</guid>
-      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
-
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
-
-&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
-
-&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file and adding &lt;code&gt;markup: mmark&lt;/code&gt; to your page front matter.&lt;/p&gt;
-
-&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$$...$$&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Example math block:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
-\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
-{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}\]&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Example inline math &lt;code&gt;$$\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2$$&lt;/code&gt; renders as &lt;span  class=&#34;math&#34;&gt;\(\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2\)&lt;/span&gt; .&lt;/p&gt;
-
-&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
-
-&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
-
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD;
-  A--&amp;gt;B;
-  A--&amp;gt;C;
-  B--&amp;gt;D;
-  C--&amp;gt;D;
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD;
-  A--&amp;gt;B;
-  A--&amp;gt;C;
-  B--&amp;gt;D;
-  C--&amp;gt;D;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-  participant Alice
-  participant Bob
-  Alice-&amp;gt;John: Hello John, how are you?
-  loop Healthcheck
-      John-&amp;gt;John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
-  John--&amp;gt;Alice: Great!
-  John-&amp;gt;Bob: How about you?
-  Bob--&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
-  participant Alice
-  participant Bob
-  Alice-&amp;gt;John: Hello John, how are you?
-  loop Healthcheck
-      John-&amp;gt;John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
-  John--&amp;gt;Alice: Great!
-  John-&amp;gt;Bob: How about you?
-  Bob--&amp;gt;John: Jolly good!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
-
-&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write math example&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34;&gt; Do something else&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
-
-&lt;p&gt;Represent your data in tables:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;First Header&lt;/th&gt;
-&lt;th&gt;Second Header&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;A&amp;gt; A Markdown aside is equivalent to using the Alert Shortcode, but simpler to use.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;aside&gt;
-&lt;p&gt;A Markdown aside is equivalent to using the Alert Shortcode, but simpler to use.&lt;/p&gt;
-&lt;/aside&gt;
-
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
     
     <item>
       <title>How to install and use HDDM</title>
@@ -216,201 +17,39 @@ gantt
       <pubDate>Mon, 29 Apr 2019 02:13:27 +0800</pubDate>
       
       <guid>/post/2019-04-29-how-to-install-and-use-hddm/</guid>
-      <description>
-
-&lt;p&gt;HDDM is a python package for drift diffusion model (DDM, see &lt;a href=&#34;http://ski.clps.brown.edu/hddm_docs/&#34; target=&#34;_blank&#34;&gt;http://ski.clps.brown.edu/hddm_docs/&lt;/a&gt;). I used it to decompose the reaction time and accuracy data in my recent manuscript: &lt;a rel=&#34;noreferrer noopener&#34; aria-label=&#34;Good Me Bad Me: Does Valence Influence Self-Prioritization During Perceptual Decision-Making (opens in a new tab)&#34; href=&#34;https://psyarxiv.com/9fczh&#34; target=&#34;_blank&#34;&gt;Good Me Bad Me: Does Valence Influence Self-Prioritization During Perceptual Decision-Making&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Here is the tips on how to install and use HDDM, in case that you are willing to replicate my analyses using the code and data I share &lt;a rel=&#34;noreferrer noopener&#34; aria-label=&#34;here on Github (opens in a new tab)&#34; href=&#34;https://github.com/hcp4715/moralSelf_ddm&#34; target=&#34;_blank&#34;&gt;here on Github&lt;/a&gt;. This post is written to help window users because I assume that for most Linux users, you, in the most cases, can figure out how to install and use this package, at least with the help from the online forum (&lt;a href=&#34;https://groups.google.com/forum/#!forum/hddm-users&#34; target=&#34;_blank&#34;&gt;https://groups.google.com/forum/#!forum/hddm-users&lt;/a&gt;).&lt;/p&gt;
-
+      <description>&lt;p&gt;HDDM is a python package for drift diffusion model (DDM, see &lt;a href=&#34;http://ski.clps.brown.edu/hddm_docs/)&#34;&gt;http://ski.clps.brown.edu/hddm_docs/)&lt;/a&gt;. I used it to decompose the reaction time and accuracy data in my recent manuscript: &lt;!-- raw HTML omitted --&gt;Good Me Bad Me: Does Valence Influence Self-Prioritization During Perceptual Decision-Making&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
+&lt;p&gt;Here are a few tips on how to install and use HDDM, in case that you plan to replicate my analyses using the code and data I share &lt;!-- raw HTML omitted --&gt;here on Github&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
+&lt;p&gt;The targeted reader of this post are Windows users. (I assume that for most Linux users, you, in the most cases, can figure out how to install and use this package, at least with the help from the online forum (&lt;a href=&#34;https://groups.google.com/forum/#!forum/hddm-users))&#34;&gt;https://groups.google.com/forum/#!forum/hddm-users))&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My system information: Win 10 pro, 64 bit, 16 GB RAM&lt;/p&gt;
-
 &lt;h3 id=&#34;step-1-prepare-the-python-environment&#34;&gt;Step 1: prepare the python environment:&lt;/h3&gt;
-
-&lt;p&gt;1.1. Download and install Anaconda 3.6 or 3.7 from &lt;a href=&#34;https://www.anaconda.com/distribution/&#34; target=&#34;_blank&#34;&gt;https://www.anaconda.com/distribution/&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;1.1. Download and install Anaconda 3.6 or 3.7 from &lt;a href=&#34;https://www.anaconda.com/distribution/&#34;&gt;https://www.anaconda.com/distribution/&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;1.2. Create virtue python 3.5 environment.&lt;/p&gt;
-
-&lt;p&gt;To do that, you need first run &lt;em&gt;&lt;strong&gt;Anaconda Prompt&lt;/strong&gt;&lt;/em&gt; ****, which will be available after you installed Anaconda, as administrator, then run the following code:&lt;/p&gt;
-
-&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;conda create -vv -n py35 python=3.5 jupyter  # py35 is the name of the environment, which can be arbitrary &lt;/code&gt;&lt;/pre&gt;
-
+&lt;p&gt;To do that, you need first run the &lt;strong&gt;&lt;em&gt;Anaconda Prompt&lt;/em&gt;&lt;/strong&gt;, which will be available after you installed Anaconda, as administrator, then run the following code:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;1.3. Activate the py35 env. :&lt;/p&gt;
-
-&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;# To activate this environment, use:
-
-conda activate py35
-
-# To deactivate an active environment, use:
-conda deactivate&lt;/code&gt;&lt;/pre&gt;
-
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h3 id=&#34;step-2-install-hddm&#34;&gt;&lt;strong&gt;Step 2: install HDDM&lt;/strong&gt;&lt;/h3&gt;
-
 &lt;p&gt;Now you have a python 3.5 environment, you can then install the HDDM package. Of course, you need to activate the py35 environment first. Then:&lt;/p&gt;
-
 &lt;p&gt;2.1. Install HDDM by following code:&lt;/p&gt;
-
-&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;conda install -c pymc hddm  # (or conda install -c pymc python=3.5 hddm )
--proceed?: y&lt;/code&gt;&lt;/pre&gt;
-
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;2.2. Update kabuki, which is crucial package that HDDM depends on, to 0.6.2, otherwise models can not be saved). You can check the version of kabuki to make sure you do have installed 0.6.2&lt;/p&gt;
-
-&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;pip install -U --no-deps kabuki --ignore-installed
-
-conda list # check the version of kabuki &lt;/code&gt;&lt;/pre&gt;
-
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h3 id=&#34;step-3-use-hddm&#34;&gt;&lt;strong&gt;Step 3: use HDDM&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;Now, we almost ready to go. But we still need an editor for the python scripts. I used both jupyter lab (an updated version of jupyter lab) and spyder. The script files of the former ends with &amp;#8220;.ipynb&amp;#8221;, the script files of the later one end with &amp;#8220;.py&amp;#8221;&lt;/p&gt;
-
-&lt;p&gt;To use jupyter lab, for exampe, you need to install jupyter lab in your py35 env. As follows:&lt;/p&gt;
-
-&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;conda install jupyter lab&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;After that, changing the working directory of &lt;em&gt;anaconda prompt&lt;/em&gt; to the folder where you store the script files and data, and type &lt;em&gt;jupyter lab&lt;/em&gt; to open run jupyter lab. Note the (weird) way to change directly in windows system.&lt;/p&gt;
-
-&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;cd /d c:\goodme\2_pilot_study\Results\4_hddm\  # in windows you have to add /d to change the directory
-
-# run in jupyter lab or jupyter note book, for stim-based modelling
-
-jupyter lab #(or jupyter notebook if you use jupyter notebook)  
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Similarly, to run in spyder, you need to install spyder in this py35 env.&amp;nbsp;&lt;/p&gt;
-
-&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;conda install spyder&lt;/code&gt;&lt;/pre&gt;
-
+&lt;p&gt;Now, we almost ready. A final step is to use an appropriate editor for editing and running the scripts. I used both jupyter lab (an updated version of jupyter notebook, but you can use jupyter notebook) and spyder. The script files of the former ends with “.ipynb”, the script files of the later one end with “.py”&lt;/p&gt;
+&lt;p&gt;To use jupyter lab, if you like, you need to install jupyter lab in your py35 env. As follows:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;After that, changing the working directory of &lt;em&gt;anaconda prompt&lt;/em&gt; to the folder where you stored the scripts and data, and type &lt;em&gt;jupyter lab&lt;/em&gt; to open run jupyter lab. Note the (weird) way to change directory in windows system.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Similarly, to run in spyder, you need to install spyder in this py35 env. &lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Then, type &lt;em&gt;spyder&lt;/em&gt; to activate spyder&lt;/p&gt;
-
-&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;spyder # you will need to change the working directory in the script.&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong&gt;Final note: I know that there exist &lt;em&gt;the curse of knowledge&lt;/em&gt;, which implies that I may assume that you have the knowledge which I know but you don&amp;#8217;t. So please free feel to post comment or shout out on twitter (@hcp4715) to let me know if you encountered any problem when reproducing my analyses.&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/jupyter/</guid>
-      <description>
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
-
-&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
-hugo new  --kind post post/my-post
-cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-
-&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
-
-# Copy the contents of Untitled.md and append it to index.md:
-cat Untitled.md | tee -a index.md
-
-# Remove the temporary file:
-rm Untitled.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-
-&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
-
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>References for beginners on skin conductance response (SCR)</title>
-      <link>/post/2018-03-14-scr_reference/</link>
-      <pubDate>Wed, 14 Mar 2018 06:36:08 +0800</pubDate>
-      
-      <guid>/post/2018-03-14-scr_reference/</guid>
-      <description>&lt;p&gt;Skin conductance response (SCR) is a widely used psychophysiological measurement in psychology, especially emotion studies. Even it is a relatively old method used in psychology, it seems that there is no explicit standard you can use, more or less the tips are told by your colleagues instead of from an explicit guidebook.&lt;/p&gt;
-
-&lt;p&gt;Here I record the articles, books, and manuals that helped me to know more about SCR, which I will be used in a fear extinction study.&lt;/p&gt;
-
-&lt;p&gt;The workflow of the SCR is not complex, only three steps:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Recording.&lt;/strong&gt;The most or lest important thing you need to care, depending on your lab&amp;#8217;s experience. It is the most important thing because data quality is always the most important aspect of research. &amp;#8220;garbage in, garbage out&amp;#8221;. It is the lest important thing because usually you just follow the way your lab&amp;#8217;s done before. The question in this step is: which part of the body will you stick the electrode, how can you get good signals.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Preprocessing&lt;/strong&gt;.surprising! With a cognitive psychology background, I&amp;#8217;ve thought that only EER &amp;amp; MRI data need a preprocess, but actually, SCR data need that too (actually all kinds of data need a preprocess, the only difference is how much time it cost and how complicated it is).&lt;/p&gt;
-
-&lt;p&gt;The preprocess of SCR data usually include a low-pass filtering or down-sampling. After that, you begin to deal with the real data.&lt;/p&gt;
-
-&lt;p&gt;The question at this stage is: first, the time point of the onset of SCR (&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8986.1985.tb01626.x/full&#34; data-blogger-escaped-target=&#34;_blank&#34;&gt;Levinson and Edelberg 1985&lt;/a&gt; reported that 1000 ms ~ 4 000ms after the onset of stimuli were used most frequently, from Boucsein, 2013; we use 900 ms ~ 4 000 ms).&lt;/p&gt;
-
-&lt;p&gt;Second, after knowing the onset, the next step is how to calculate the magnitude (&lt;strong&gt;Important Note:&lt;/strong&gt; amplitude and magnitude are different things in SCR,&lt;span class=&#34;fontstyle0&#34;&gt;sum non-zero amplitudes / number of non-zero responses = mean amplitude; mean magnitude &lt;/span&gt;= mean value computed across all stimulus presentations including those without a measurable response). which threshold used to judge one trial has SCR or not (zero-response)? There is also no standard way for this. Braithwaite et al. (2015) mentioned that historically the most common threshold is 0.05 µS, but now the common threshold is range from 0.01 to 0.04 µS. In our study, we used 0.02 µS.&lt;/p&gt;
-
-&lt;p&gt;After extract the SCR amplitude value, the data need to be normalized and standardized. Braithwaite et al. (2015) make a good distinction between the two: Normalization is to make data of each participant more like parametric data (therefore can subject to parametric data analysis), which is necessary; standardized is between participants, to make each participants&amp;#8217; data comparable to each other, which is not always necessary. There are many different ways to do the normalization and standardization, Braithwaite et al. (2015) give many typical approaches, please check the document (p10 ~ p11).&lt;/p&gt;
-
-&lt;p&gt;In our lab, we used magnitude, which is the normalized log transformation (log(S+1), S = raw magnititude); for standardization, we used the range-correction ((SCL &amp;#8211; SCLmin) / (SCLmax &amp;#8211; SCLmin: Dawson et al., 2001)).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Analyzing&lt;/strong&gt;: after preprocessing, do whatever statistic you like.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Related software&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ledalab.de/&#34; target=&#34;_blank&#34;&gt;http://ledalab.de/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/johnksander/BreatheEasyEDA&#34; target=&#34;_blank&#34;&gt;https://github.com/johnksander/BreatheEasyEDA&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://pspm.sourceforge.net/&#34; target=&#34;_blank&#34;&gt;http://pspm.sourceforge.net/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Of course, my understanding might be wrong, cause I am also a beginner in this field. So here are the references and what I learned from each:&lt;/p&gt;
-
-&lt;p&gt;First of all, EDA or SCR is not as simple as it appears to be. At least there are books about it. Here are two examples:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Boucsein (2012), Electrodermal Activity (2nd). Springer&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Greco, et al., (2016), Advances in Electrodermal Activity Processing with Applications for Mental Health. Springer.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Second of all, check the guideline from the Society of Psychophysiology, the have a &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/22680988&#34; data-blogger-escaped-target=&#34;_blank&#34;&gt;Publication recommendation for electrodermal measurements&lt;/a&gt;. In section 3.1, there is one paragraph about the latency of SCR, which is a good rule of thumb about how you shall decide which part of your data is SCR. This section also mentioned different index of SCR: amplitude, area under the EDR curve etc.&lt;/p&gt;
-
-&lt;p&gt;Then, there are some terms that you might want to know before jump into all the mess, and Boucsein (2012) have made a table to make life easier:&lt;/p&gt;
-
-&lt;p&gt;Braithwaite et al. from Birmingham have a very clearly explained online guide. If you only want to read one document, this one is recommended. The link is &lt;a href=&#34;https://www.birmingham.ac.uk/Documents/college-les/psych/saal/guide-electrodermal-activity.pdf&#34; data-blogger-escaped-target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Braithwaite, Watson, Jones, &amp;amp; Rowe, A Guide for Analysing Electrodermal Activity (EDA) &amp;amp; Skin Conductance Responses (SCRs) for Psychological Experiments&lt;/p&gt;
-
-&lt;p&gt;For a practical and brief introduction, please see:&lt;/p&gt;
-
-&lt;p&gt;B. Cowley, M. Filetti, K. Lukander, J. Torniainen, A. Henelius, L. Ahonen, O. Barral, I. Kosunen, T. Valtonen, M. Huotilainen, N. Ravaja, G. Jacucci, The Psychophysiology Primer: A Guide to Methods and a Broad Review with a Focus on Human–Computer Interaction DOI: 10.&lt;sup&gt;1561&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1100000065&lt;/sub&gt;.&lt;/p&gt;
-
-&lt;p&gt;Another often-mentioned book chapter (of which book the founder of social neuroscience John Cacioppo is the editor):&lt;/p&gt;
-
-&lt;p&gt;Dawson, M. E, et al. (2000). &lt;a href=&#34;https://ccsn.uchicago.edu/sites/ccsn.uchicago.edu/files/uploads/Chapter%208.pdf&#34; data-blogger-escaped-target=&#34;_blank&#34;&gt;The electrodermal system&lt;/a&gt;. In Cacioppo, J. T, Tassinary, L. G. &amp;amp; Berntson, G. (ed), Handbook of Psychophysiology. Cambridge University Press, Cambridge UK, 2nd edition, 2000.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;Final note&lt;/strong&gt;: I know that there exists &lt;em&gt;the curse of knowledge&lt;/em&gt;, which means that I may assume you know what I know but you don’t. So please free feel to post comment or shout out on twitter (@hcp4715) to let me know if you encountered any problem when reproducing my analyses.&lt;/p&gt;
 </description>
     </item>
     
@@ -420,317 +59,21 @@ rm Untitled.md
       <pubDate>Mon, 15 Aug 2016 03:01:22 +0800</pubDate>
       
       <guid>/post/2016-08-15-four_layers_of_reproducibility/</guid>
-      <description>&lt;p&gt;此文是我在自己的微信公众号上的一篇文章，本意是在记录一下自己对于可重复性（reproducibility）的理解。原文见&lt;a href=&#34;http://mp.weixin.qq.com/s?__biz=MzA4NzAwOTk1Mw==&amp;mid=2649293732&amp;idx=1&amp;sn=8e6a158bfbf579a378ddc9f6d17373f7#rd&#34; target=&#34;_blank&#34;&gt;这里&lt;/a&gt;。欢迎关注本人公众号Brainclimber:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://huchuanpeng.com/wp-content/uploads/2016/08/qrcode.bmp&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;size-full wp-image-613 alignnone&#34; src=&#34;http://huchuanpeng.com/wp-content/uploads/2016/08/qrcode.bmp&#34; alt=&#34;qrcode&#34; width=&#34;129&#34; height=&#34;129&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;最近看到了讨论科研中可重复性问题的&lt;a href=&#34;http://library.fora.tv/2016/08/06/the_replication_crisis&#34; target=&#34;_blank&#34;&gt;视频&lt;/a&gt;（不仅是心理学），其中Brian Nosek提到了可重复性(reproducibility)的几层含义(23:45&amp;#8217;到25:30&amp;#8242;)。我觉得非常有意思，这也是我们在讨论可重复性时因为篇幅的限制而未讨论的问题[见引文]，所以正好在展开说一下。&lt;/p&gt;
-
-&lt;p&gt;这个视频是一次关于&lt;a href=&#34;http://mp.weixin.qq.com/s?__biz=MzA4NzAwOTk1Mw==&amp;mid=2649293695&amp;idx=1&amp;sn=ae2226c695702122957f3f7ccd0f22f6&amp;scene=21#wechat_redirect&#34; target=&#34;_blank&#34;&gt;可重复危机&lt;/a&gt;的讨论。在这个视频中，Brian谈到了四层不同的reproducibility，以下是我自己对这四层的可重复性的理解，建议看原视频（点击原文链接可观看）：&lt;/p&gt;
-
+      <description>&lt;p&gt;此文是我在自己的微信公众号上的一篇文章，本意是在记录一下自己对于可重复性（reproducibility）的理解。原文见&lt;!-- raw HTML omitted --&gt;这里&lt;!-- raw HTML omitted --&gt;。欢迎关注本人公众号Brainclimber:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://huchuanpeng.com/wp-content/uploads/2016/08/qrcode.bmp&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;最近看到了讨论科研中可重复性问题的&lt;!-- raw HTML omitted --&gt;视频&lt;!-- raw HTML omitted --&gt;（不仅是心理学），其中Brian Nosek提到了可重复性(reproducibility)的几层含义(23:45’到25:30′)。我觉得非常有意思，这也是我们在讨论可重复性时因为篇幅的限制而未讨论的问题[见引文]，所以正好在展开说一下。&lt;/p&gt;
+&lt;p&gt;这个视频是一次关于&lt;!-- raw HTML omitted --&gt;可重复危机&lt;!-- raw HTML omitted --&gt;的讨论。在这个视频中，Brian谈到了四层不同的reproducibility，以下是我自己对这四层的可重复性的理解，建议看原视频（点击原文链接可观看）：&lt;/p&gt;
 &lt;p&gt;第一层：再现原论文中的结果。即使用相同的数据，相同的分析方法，是否能够得到相同的结果。这一层是最容易实现的，基本上只要公开数据和分布方法，我们就可以得到跟原论文一样的结果。但从目前科研界的主流做法来看，这一点并没有那么容易实现，因为大家基本上只是发表论文，并不公开原始数据，也不公开分析数据的过程。也正是由于不需要公开数据分析的过程，不少研究者靠GUI，手动点击完成数据分析（比如SPSS和Excel）。这样造成的后果就是，论文发表之后，作者本人也不一定记得自己当时是如何分析的了。所以从这个角度来，目前许多关于可重复性问题的解决方案，是在试图解决这个问题，比如Rmarkdown的使用；&lt;/p&gt;
-
 &lt;p&gt;第二层：再现原论文中的结论。也就是说，仍然使用原论文的数据，告诉你研究的问题和假设，让你去分析，看看你是否能够得到相同的结果和结论。这一点上就比较有意思了。理论上讲，各种方法应该得到相同的结果，但实际上，Brian他们目前正在做的一个研究显示并非如此：招募世界范围内不同的研究者，给他们一批数据和研究假设，让他们采用自己擅长的方法去分析。结果不同研究小组分析的结果差异很大，因此结论也不尽相同。从这个角度来讲，研究者在数据分析的过程中，自由度还是太大，可操作的空间太大，于是数据最终可能是朝着符合研究者预期的方向得到结果；&lt;/p&gt;
-
 &lt;p&gt;第三层：使用与原论文相同的方法和材料，看看是否能够得到原论文的结果。前段时间Replication Project: Psychology所做的工作是这一层的重复。这种重复也叫做直接重复(direct replication)。当然，直接重复面临着不少的批评，因为直接重复的过程中，可能会忽略不少的细节，有可能这些细节才是关键的，而原研究者甚至都没有意识到。所以不少研究者发现自己对其他人的研究进行直接重复时，即使失败，也会不立刻怀疑原研究，而是首先从自己的研究过程找问题。但是仅仅看论文确实是很难精确复制原实验的过程，这个问题Brian在视频中也说了；&lt;/p&gt;
-
 &lt;p&gt;第四层：使用与原论文不同的材料和方法，仍然得到原论文的结论。我理解的这个就是心理学中常用的概念重复（conceptual replication）。比如为了证明刻板印象启动是有效的，第一个实验启动老年的刻板印象，第二个启动婴儿的刻板印象，第三个启动嬉皮士的刻板印象，都发现了与刻板印象一致的行为表现，于是证明了刻板印象启动是有效的（婴儿和嬉皮士是我瞎编的）。这种方法在过去的研究中经常出现，Stapel也说他的结论被conceptual replicated。这个意义上的重复也是重复，但可能没有直接重复那么能力有力地证明原研究的效应确实是存在的。&lt;/p&gt;
-
 &lt;p&gt;这四层可重复性还只是一种观点，还可以讲方法可重复性、结果可重复性、推论可重复性等，可以参考 Goodman, S. N., Fanelli, D., &amp;amp; Ioannidis, J. P. A. (2016)在Science Translational Medicine上对这个问题的讨论。&lt;/p&gt;
-
-&lt;p&gt;此外，关于reproducibility，这个概念最早是由做计算和统计这一块的人提出的，由于他们的工作涉及到海量的运算，可能有大量的代码和脚本，一个人是否能用使用代码完全再现另一个分析，就是最原始的reproducibility的意思。这是我对Roger Peng在Coursera上关于reproducible research一课上讲到内容的理解（如果有误，那得怪我）。对这个问题感兴趣的话，可以上coursera上免费注册和学习这个课程：&lt;a href=&#34;https://www.coursera.org/learn/reproducible-research。&#34; target=&#34;_blank&#34;&gt;https://www.coursera.org/learn/reproducible-research。&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;最后的最后，reproducibility并不是心理学这个领域特有的问题，比如Science在2011年讨论reproducibility的时候，完全跟心理学没有关系：&lt;a href=&#34;http://science.sciencemag.org/content/334/6060。&#34; target=&#34;_blank&#34;&gt;http://science.sciencemag.org/content/334/6060。&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;此外，关于reproducibility，这个概念最早是由做计算和统计这一块的人提出的，由于他们的工作涉及到海量的运算，可能有大量的代码和脚本，一个人是否能用使用代码完全再现另一个分析，就是最原始的reproducibility的意思。这是我对Roger Peng在Coursera上关于reproducible research一课上讲到内容的理解（如果有误，那得怪我）。对这个问题感兴趣的话，可以上coursera上免费注册和学习这个课程：https://www.coursera.org/learn/reproducible-research。&lt;/p&gt;
+&lt;p&gt;最后的最后，reproducibility并不是心理学这个领域特有的问题，比如Science在2011年讨论reproducibility的时候，完全跟心理学没有关系：http://science.sciencemag.org/content/334/6060。&lt;/p&gt;
 &lt;p&gt;参考文献：&lt;/p&gt;
-
 &lt;p&gt;Goodman, S. N., Fanelli, D., &amp;amp; Ioannidis, J. P. A. (2016). What does research reproducibility mean? Science Translational Medicine, 8(341), 341ps312-341ps312. doi:10.1126/scitranslmed.aaf5027&lt;/p&gt;
-
 &lt;p&gt;胡传鹏, 王非, 过继成思, 宋梦迪, 隋洁, 彭凯平. (2016). 心理学研究的可重复性问题：从危机到契机. 心理科学进展, 24(9), 1504–1518 doi:10.3724/SP.J.1042.2016.01504&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Setup Academic&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support development of Academic:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; &gt;
-
-&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; &gt;
-&lt;/a&gt;
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic comes with &lt;strong&gt;day (light) and night (dark) mode&lt;/strong&gt; built-in. Click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt; to see it in action!&lt;/p&gt;
-
-&lt;p&gt;Choose a stunning color and font theme for your site. Themes are fully customizable and include:&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 </description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Neuroscience on Dr. Chuan-Peng Hu</title>
+    <title>Social Neuroscience on Dr. Chuan-Peng Hu (胡传鹏)</title>
     <link>/categories/social-neuroscience/</link>
-    <description>Recent content in Social Neuroscience on Dr. Chuan-Peng Hu</description>
+    <description>Recent content in Social Neuroscience on Dr. Chuan-Peng Hu (胡传鹏)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Mar 2018 06:36:08 +0800</lastBuildDate>
@@ -18,60 +18,33 @@
       
       <guid>/post/2018-03-14-scr_reference/</guid>
       <description>&lt;p&gt;Skin conductance response (SCR) is a widely used psychophysiological measurement in psychology, especially emotion studies. Even it is a relatively old method used in psychology, it seems that there is no explicit standard you can use, more or less the tips are told by your colleagues instead of from an explicit guidebook.&lt;/p&gt;
-
 &lt;p&gt;Here I record the articles, books, and manuals that helped me to know more about SCR, which I will be used in a fear extinction study.&lt;/p&gt;
-
 &lt;p&gt;The workflow of the SCR is not complex, only three steps:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Recording.&lt;/strong&gt;The most or lest important thing you need to care, depending on your lab&amp;#8217;s experience. It is the most important thing because data quality is always the most important aspect of research. &amp;#8220;garbage in, garbage out&amp;#8221;. It is the lest important thing because usually you just follow the way your lab&amp;#8217;s done before. The question in this step is: which part of the body will you stick the electrode, how can you get good signals.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Preprocessing&lt;/strong&gt;.surprising! With a cognitive psychology background, I&amp;#8217;ve thought that only EER &amp;amp; MRI data need a preprocess, but actually, SCR data need that too (actually all kinds of data need a preprocess, the only difference is how much time it cost and how complicated it is).&lt;/p&gt;
-
+&lt;p&gt;**Recording.**The most or lest important thing you need to care, depending on your lab’s experience. It is the most important thing because data quality is always the most important aspect of research. “garbage in, garbage out”. It is the lest important thing because usually you just follow the way your lab’s done before. The question in this step is: which part of the body will you stick the electrode, how can you get good signals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preprocessing&lt;/strong&gt;.surprising! With a cognitive psychology background, I’ve thought that only EER &amp;amp; MRI data need a preprocess, but actually, SCR data need that too (actually all kinds of data need a preprocess, the only difference is how much time it cost and how complicated it is).&lt;/p&gt;
 &lt;p&gt;The preprocess of SCR data usually include a low-pass filtering or down-sampling. After that, you begin to deal with the real data.&lt;/p&gt;
-
-&lt;p&gt;The question at this stage is: first, the time point of the onset of SCR (&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8986.1985.tb01626.x/full&#34; data-blogger-escaped-target=&#34;_blank&#34;&gt;Levinson and Edelberg 1985&lt;/a&gt; reported that 1000 ms ~ 4 000ms after the onset of stimuli were used most frequently, from Boucsein, 2013; we use 900 ms ~ 4 000 ms).&lt;/p&gt;
-
-&lt;p&gt;Second, after knowing the onset, the next step is how to calculate the magnitude (&lt;strong&gt;Important Note:&lt;/strong&gt; amplitude and magnitude are different things in SCR,&lt;span class=&#34;fontstyle0&#34;&gt;sum non-zero amplitudes / number of non-zero responses = mean amplitude; mean magnitude &lt;/span&gt;= mean value computed across all stimulus presentations including those without a measurable response). which threshold used to judge one trial has SCR or not (zero-response)? There is also no standard way for this. Braithwaite et al. (2015) mentioned that historically the most common threshold is 0.05 µS, but now the common threshold is range from 0.01 to 0.04 µS. In our study, we used 0.02 µS.&lt;/p&gt;
-
-&lt;p&gt;After extract the SCR amplitude value, the data need to be normalized and standardized. Braithwaite et al. (2015) make a good distinction between the two: Normalization is to make data of each participant more like parametric data (therefore can subject to parametric data analysis), which is necessary; standardized is between participants, to make each participants&amp;#8217; data comparable to each other, which is not always necessary. There are many different ways to do the normalization and standardization, Braithwaite et al. (2015) give many typical approaches, please check the document (p10 ~ p11).&lt;/p&gt;
-
-&lt;p&gt;In our lab, we used magnitude, which is the normalized log transformation (log(S+1), S = raw magnititude); for standardization, we used the range-correction ((SCL &amp;#8211; SCLmin) / (SCLmax &amp;#8211; SCLmin: Dawson et al., 2001)).&lt;/p&gt;
-
+&lt;p&gt;The question at this stage is: first, the time point of the onset of SCR (&lt;!-- raw HTML omitted --&gt;Levinson and Edelberg 1985&lt;!-- raw HTML omitted --&gt; reported that 1000 ms ~ 4 000ms after the onset of stimuli were used most frequently, from Boucsein, 2013; we use 900 ms ~ 4 000 ms).&lt;/p&gt;
+&lt;p&gt;Second, after knowing the onset, the next step is how to calculate the magnitude (&lt;strong&gt;Important Note:&lt;/strong&gt; amplitude and magnitude are different things in SCR,&lt;!-- raw HTML omitted --&gt;sum non-zero amplitudes / number of non-zero responses = mean amplitude; mean magnitude &lt;!-- raw HTML omitted --&gt;= mean value computed across all stimulus presentations including those without a measurable response). which threshold used to judge one trial has SCR or not (zero-response)? There is also no standard way for this. Braithwaite et al. (2015) mentioned that historically the most common threshold is 0.05 µS, but now the common threshold is range from 0.01 to 0.04 µS. In our study, we used 0.02 µS.&lt;/p&gt;
+&lt;p&gt;After extract the SCR amplitude value, the data need to be normalized and standardized. Braithwaite et al. (2015) make a good distinction between the two: Normalization is to make data of each participant more like parametric data (therefore can subject to parametric data analysis), which is necessary; standardized is between participants, to make each participants’ data comparable to each other, which is not always necessary. There are many different ways to do the normalization and standardization, Braithwaite et al. (2015) give many typical approaches, please check the document (p10 ~ p11).&lt;/p&gt;
+&lt;p&gt;In our lab, we used magnitude, which is the normalized log transformation (log(S+1), S = raw magnititude); for standardization, we used the range-correction ((SCL – SCLmin) / (SCLmax – SCLmin: Dawson et al., 2001)).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Analyzing&lt;/strong&gt;: after preprocessing, do whatever statistic you like.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
+&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Related software&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ledalab.de/&#34; target=&#34;_blank&#34;&gt;http://ledalab.de/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/johnksander/BreatheEasyEDA&#34; target=&#34;_blank&#34;&gt;https://github.com/johnksander/BreatheEasyEDA&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://pspm.sourceforge.net/&#34; target=&#34;_blank&#34;&gt;http://pspm.sourceforge.net/&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&#34;http://ledalab.de/&#34;&gt;http://ledalab.de/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/johnksander/BreatheEasyEDA&#34;&gt;https://github.com/johnksander/BreatheEasyEDA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://pspm.sourceforge.net/&#34;&gt;http://pspm.sourceforge.net/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Of course, my understanding might be wrong, cause I am also a beginner in this field. So here are the references and what I learned from each:&lt;/p&gt;
-
 &lt;p&gt;First of all, EDA or SCR is not as simple as it appears to be. At least there are books about it. Here are two examples:&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;Boucsein (2012), Electrodermal Activity (2nd). Springer&lt;/em&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;Greco, et al., (2016), Advances in Electrodermal Activity Processing with Applications for Mental Health. Springer.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Second of all, check the guideline from the Society of Psychophysiology, the have a &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/22680988&#34; data-blogger-escaped-target=&#34;_blank&#34;&gt;Publication recommendation for electrodermal measurements&lt;/a&gt;. In section 3.1, there is one paragraph about the latency of SCR, which is a good rule of thumb about how you shall decide which part of your data is SCR. This section also mentioned different index of SCR: amplitude, area under the EDR curve etc.&lt;/p&gt;
-
+&lt;p&gt;Second of all, check the guideline from the Society of Psychophysiology, the have a &lt;!-- raw HTML omitted --&gt;Publication recommendation for electrodermal measurements&lt;!-- raw HTML omitted --&gt;. In section 3.1, there is one paragraph about the latency of SCR, which is a good rule of thumb about how you shall decide which part of your data is SCR. This section also mentioned different index of SCR: amplitude, area under the EDR curve etc.&lt;/p&gt;
 &lt;p&gt;Then, there are some terms that you might want to know before jump into all the mess, and Boucsein (2012) have made a table to make life easier:&lt;/p&gt;
-
-&lt;p&gt;Braithwaite et al. from Birmingham have a very clearly explained online guide. If you only want to read one document, this one is recommended. The link is &lt;a href=&#34;https://www.birmingham.ac.uk/Documents/college-les/psych/saal/guide-electrodermal-activity.pdf&#34; data-blogger-escaped-target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;Braithwaite et al. from Birmingham have a very clearly explained online guide. If you only want to read one document, this one is recommended. The link is &lt;!-- raw HTML omitted --&gt;here&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
 &lt;p&gt;Braithwaite, Watson, Jones, &amp;amp; Rowe, A Guide for Analysing Electrodermal Activity (EDA) &amp;amp; Skin Conductance Responses (SCRs) for Psychological Experiments&lt;/p&gt;
-
 &lt;p&gt;For a practical and brief introduction, please see:&lt;/p&gt;
-
-&lt;p&gt;B. Cowley, M. Filetti, K. Lukander, J. Torniainen, A. Henelius, L. Ahonen, O. Barral, I. Kosunen, T. Valtonen, M. Huotilainen, N. Ravaja, G. Jacucci, The Psychophysiology Primer: A Guide to Methods and a Broad Review with a Focus on Human–Computer Interaction DOI: 10.&lt;sup&gt;1561&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1100000065&lt;/sub&gt;.&lt;/p&gt;
-
+&lt;p&gt;B. Cowley, M. Filetti, K. Lukander, J. Torniainen, A. Henelius, L. Ahonen, O. Barral, I. Kosunen, T. Valtonen, M. Huotilainen, N. Ravaja, G. Jacucci, The Psychophysiology Primer: A Guide to Methods and a Broad Review with a Focus on Human–Computer Interaction DOI: 10.1561/1100000065.&lt;/p&gt;
 &lt;p&gt;Another often-mentioned book chapter (of which book the founder of social neuroscience John Cacioppo is the editor):&lt;/p&gt;
-
-&lt;p&gt;Dawson, M. E, et al. (2000). &lt;a href=&#34;https://ccsn.uchicago.edu/sites/ccsn.uchicago.edu/files/uploads/Chapter%208.pdf&#34; data-blogger-escaped-target=&#34;_blank&#34;&gt;The electrodermal system&lt;/a&gt;. In Cacioppo, J. T, Tassinary, L. G. &amp;amp; Berntson, G. (ed), Handbook of Psychophysiology. Cambridge University Press, Cambridge UK, 2nd edition, 2000.&lt;/p&gt;
+&lt;p&gt;Dawson, M. E, et al. (2000). &lt;!-- raw HTML omitted --&gt;The electrodermal system&lt;!-- raw HTML omitted --&gt;. In Cacioppo, J. T, Tassinary, L. G. &amp;amp; Berntson, G. (ed), Handbook of Psychophysiology. Cambridge University Press, Cambridge UK, 2nd edition, 2000.&lt;/p&gt;
 </description>
     </item>
     

@@ -7,7 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Front. Psychol., 9*"
-url_pdf: "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00868/full"
 doi: "10.3389/fpsyg.2018.00868"
+url_dataset: https://osf.io/vnjye
+url_pdf: "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00868/full"
 ---
 

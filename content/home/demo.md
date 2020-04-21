@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Hi, there"
+title = "Know Thyself"
 subtitle = ""
 
 [design]
@@ -47,6 +47,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal website** of Chuan-Peng Hu.
-
-- This website includes academic information about Dr. Chuan-Peng Hu.
+Welcome to the **personal academic page** of Chuan-Peng Hu.
+        
+- (Hu)man is the measure of all things, but, what is the measure of all humans?

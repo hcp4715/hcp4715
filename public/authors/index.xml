@@ -1,764 +1,430 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Dr. Chuan-Peng Hu</title>
+    <title>Authors on Dr. Chuan-Peng Hu (胡传鹏)</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Dr. Chuan-Peng Hu</description>
+    <description>Recent content in Authors on Dr. Chuan-Peng Hu (胡传鹏)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Hu, C-P.</title>
+      <link>/authors/hu-c-p./</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hu-c-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hu, C.</title>
+      <link>/authors/hu-c./</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hu-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lan, Y.</title>
+      <link>/authors/lan-y./</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lan-y./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macrae, C. N.</title>
+      <link>/authors/macrae-c.-n./</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/macrae-c.-n./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sui, J.</title>
+      <link>/authors/sui-j./</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sui-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyu, X-K.</title>
+      <link>/authors/lyu-x-k./</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lyu-x-k./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xu, Y</title>
+      <link>/authors/xu-y/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/xu-y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhao, X.</title>
+      <link>/authors/zhao-x./</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zhao-x./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zuo, X-N.</title>
+      <link>/authors/zuo-x-n./</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zuo-x-n./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liu, Q-L.</title>
+      <link>/authors/liu-q-l./</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/liu-q-l./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peng, K.</title>
+      <link>/authors/peng-k./</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/peng-k./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wang, F</title>
+      <link>/authors/wang-f/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/wang-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yan, W.</title>
+      <link>/authors/yan-w./</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yan-w./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Botvinik-Nezer, R.</title>
+      <link>/authors/botvinik-nezer-r./</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/botvinik-nezer-r./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camerer, C. F.</title>
+      <link>/authors/camerer-c.-f./</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/camerer-c.-f./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holzmeister, F.</title>
+      <link>/authors/holzmeister-f./</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/holzmeister-f./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nichols, T. E.</title>
+      <link>/authors/nichols-t.-e./</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/nichols-t.-e./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poldrack, R. A.</title>
+      <link>/authors/poldrack-r.-a./</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/poldrack-r.-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schonberg, T.</title>
+      <link>/authors/schonberg-t./</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/schonberg-t./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dalğar, İ.</title>
+      <link>/authors/dalgar-i./</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dalgar-i./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IJzerman, H.</title>
+      <link>/authors/ijzerman-h./</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ijzerman-h./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lindenberg, S.</title>
+      <link>/authors/lindenberg-s./</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lindenberg-s./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lindenberg, S. M.</title>
+      <link>/authors/lindenberg-s.-m./</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lindenberg-s.-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weissgerber, S.</title>
+      <link>/authors/weissgerber-s./</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/weissgerber-s./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yin, J-X</title>
+      <link>/authors/yin-j-x/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yin-j-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arriaga, P.</title>
+      <link>/authors/arriaga-p./</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/arriaga-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blomster, J. K.</title>
+      <link>/authors/blomster-j.-k./</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/blomster-j.-k./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiske, A. P.</title>
+      <link>/authors/fiske-a.-p./</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/fiske-a.-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schubert, T. W.</title>
+      <link>/authors/schubert-t.-w./</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/schubert-t.-w./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seibt, B.</title>
+      <link>/authors/seibt-b./</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/seibt-b./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zickfeld, J.</title>
+      <link>/authors/zickfeld-j./</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zickfeld-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zickfeld, J. H.</title>
+      <link>/authors/zickfeld-j.-h./</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zickfeld-j.-h./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey, R.</title>
+      <link>/authors/jeffrey-r./</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jeffrey-r./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiang, X.</title>
+      <link>/authors/jiang-x./</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jiang-x./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luo, T.</title>
+      <link>/authors/luo-t./</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/luo-t./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyu, Z.</title>
+      <link>/authors/lyu-z./</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lyu-z./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vergara, R.</title>
+      <link>/authors/vergara-r./</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/vergara-r./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zheng, W.</title>
+      <link>/authors/zheng-w./</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zheng-w./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hennecke, M.</title>
+      <link>/authors/hennecke-m./</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hennecke-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hong, Y.</title>
+      <link>/authors/hong-y./</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hong-y./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Čolić, M. V.</title>
+      <link>/authors/colic-m.-v./</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/colic-m.-v./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Di, X.</title>
+      <link>/authors/di-x./</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/di-x./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eickhoff, S. B.</title>
+      <link>/authors/eickhoff-s.-b./</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/eickhoff-s.-b./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guo, H.</title>
+      <link>/authors/guo-h./</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/guo-h./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhang, M.</title>
+      <link>/authors/zhang-m./</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zhang-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Dr. Chuan-Peng Hu is a post-doc researcher at Neuroimaging Center (NIC), University Medical Center Mainz, Germany. His primary research interest is how people keep resilient in adverse environment (e.g., poverty). He values open, transparency, and reproducibility in research and leads the Chinese Open Science Network.&lt;/p&gt;
-
-&lt;p&gt;Grew up in a village near Yangtze River in Hubei, a central province in China, Chuan-Peng loves outdoors, e.g., rock climbing, mountaineering, and hiking. He&amp;rsquo;ve climbed four mountains over 5000 meters and reached about 6 km of the Chola Mountain, Sichuan Province, China in June 2014.&lt;/p&gt;
+      <description>&lt;p&gt;Dr. Chuan-Peng Hu is a post-doc researcher at Leibniz Institute for Resilience Research, Mainz, Germany. His primary research interest is how people keep resilient in adversity (e.g., poverty). He values open, transparency, and reproducibility in research and leads the Chinese Open Science Network.&lt;/p&gt;
+&lt;p&gt;Grew up in a village near Yangtze River in Hubei, a central province in China, Chuan-Peng loves outdoors, e.g., rock climbing, mountaineering, and hiking. He had climbed four mountains over 5000 meters and reached about 6 km of the Chola Mountain, Sichuan Province, China on June 2014.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Jie Sui</title>
-      <link>/authors/jie-sui/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/jie-sui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Macrae, C. Neil</title>
-      <link>/authors/macrae-c.-neil/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/macrae-c.-neil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuxuan Lan</title>
-      <link>/authors/yuxuan-lan/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/yuxuan-lan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ad Vingerhoets</title>
-      <link>/authors/ad-vingerhoets/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ad-vingerhoets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Agata Blaut</title>
-      <link>/authors/agata-blaut/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/agata-blaut/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Akihiko Tokaji</title>
-      <link>/authors/akihiko-tokaji/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/akihiko-tokaji/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alan Page Fiske</title>
-      <link>/authors/alan-page-fiske/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/alan-page-fiske/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amparo Caballero</title>
-      <link>/authors/amparo-caballero/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/amparo-caballero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anja Vorster</title>
-      <link>/authors/anja-vorster/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/anja-vorster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anna Pásztor</title>
-      <link>/authors/anna-pasztor/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/anna-pasztor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asmir Gračanin</title>
-      <link>/authors/asmir-gracanin/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/asmir-gracanin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Astrid Schütz</title>
-      <link>/authors/astrid-schutz/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/astrid-schutz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Athena Cair</title>
-      <link>/authors/athena-cair/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/athena-cair/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beate Seibt</title>
-      <link>/authors/beate-seibt/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/beate-seibt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Boban Petrović</title>
-      <link>/authors/boban-petrovic/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/boban-petrovic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Calvin Hall</title>
-      <link>/authors/calvin-hall/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/calvin-hall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chuan-Peng Hu</title>
-      <link>/authors/chuan-peng-hu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/chuan-peng-hu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cláudia Simão</title>
-      <link>/authors/claudia-simao/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/claudia-simao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Darko Stojilović</title>
-      <link>/authors/darko-stojilovic/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/darko-stojilovic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Darío Páez</title>
-      <link>/authors/dario-paez/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/dario-paez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Rothman</title>
-      <link>/authors/david-rothman/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/david-rothman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dušanka Lazarević</title>
-      <link>/authors/dusanka-lazarevic/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/dusanka-lazarevic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Francisco Jaume-Guazzini</title>
-      <link>/authors/francisco-jaume-guazzini/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/francisco-jaume-guazzini/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hans IJzerman</title>
-      <link>/authors/hans-ijzerman/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/hans-ijzerman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Igor Kardum</title>
-      <link>/authors/igor-kardum/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/igor-kardum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Janis H. Zickfeld</title>
-      <link>/authors/janis-h.-zickfeld/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/janis-h.-zickfeld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Janis Zickfeld</title>
-      <link>/authors/janis-zickfeld/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/janis-zickfeld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jennifer Joy-Gaba</title>
-      <link>/authors/jennifer-joy-gaba/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/jennifer-joy-gaba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ji-Xing Yin</title>
-      <link>/authors/ji-xing-yin/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ji-xing-yin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Johanna Blomster</title>
-      <link>/authors/johanna-blomster/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/johanna-blomster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Johanna K. Blomster</title>
-      <link>/authors/johanna-k.-blomster/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/johanna-k.-blomster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonna Vuoskoski</title>
-      <link>/authors/jonna-vuoskoski/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/jonna-vuoskoski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>José J. Pizarro</title>
-      <link>/authors/jose-j.-pizarro/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/jose-j.-pizarro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kaiping Peng</title>
-      <link>/authors/kaiping-peng/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/kaiping-peng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kitty Dumont</title>
-      <link>/authors/kitty-dumont/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/kitty-dumont/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kyle Ratner</title>
-      <link>/authors/kyle-ratner/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/kyle-ratner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leemamol Mathew</title>
-      <link>/authors/leemamol-mathew/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/leemamol-mathew/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lei Zhu</title>
-      <link>/authors/lei-zhu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/lei-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ljiljana B. Lazarević</title>
-      <link>/authors/ljiljana-b.-lazarevic/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ljiljana-b.-lazarevic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ljiljana Lazarević</title>
-      <link>/authors/ljiljana-lazarevic/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ljiljana-lazarevic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Magdalena Śmieja</title>
-      <link>/authors/magdalena-smieja/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/magdalena-smieja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marie Hennecke</title>
-      <link>/authors/marie-hennecke/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/marie-hennecke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marija Čolić</title>
-      <link>/authors/marija-colic/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/marija-colic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mayuko Onuki</title>
-      <link>/authors/mayuko-onuki/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/mayuko-onuki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mengdi Song</title>
-      <link>/authors/mengdi-song/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/mengdi-song/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michal Parzuchowski</title>
-      <link>/authors/michal-parzuchowski/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/michal-parzuchowski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natalia Frankowska</title>
-      <link>/authors/natalia-frankowska/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/natalia-frankowska/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nekane Basabe</title>
-      <link>/authors/nekane-basabe/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/nekane-basabe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Patrícia Arriaga</title>
-      <link>/authors/patricia-arriaga/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/patricia-arriaga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pilar Carrera</title>
-      <link>/authors/pilar-carrera/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/pilar-carrera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pinar Dursun</title>
-      <link>/authors/pinar-dursun/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/pinar-dursun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ravit Nussinson</title>
-      <link>/authors/ravit-nussinson/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ravit-nussinson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rhonda Hadi</title>
-      <link>/authors/rhonda-hadi/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/rhonda-hadi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rodrigo Brito</title>
-      <link>/authors/rodrigo-brito/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/rodrigo-brito/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rodrigo Vergara</title>
-      <link>/authors/rodrigo-vergara/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/rodrigo-vergara/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Réka Gyenis</title>
-      <link>/authors/reka-gyenis/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/reka-gyenis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Samantha Sim</title>
-      <link>/authors/samantha-sim/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/samantha-sim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sari Mentser</title>
-      <link>/authors/sari-mentser/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/sari-mentser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Siegwart M. Lindenberg</title>
-      <link>/authors/siegwart-m.-lindenberg/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/siegwart-m.-lindenberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sophia Weissgerber</title>
-      <link>/authors/sophia-weissgerber/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/sophia-weissgerber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas Schubert</title>
-      <link>/authors/thomas-schubert/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/thomas-schubert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas W. Schubert</title>
-      <link>/authors/thomas-w.-schubert/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/thomas-w.-schubert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Valerie Gaulhofer</title>
-      <link>/authors/valerie-gaulhofer/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/valerie-gaulhofer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Victoria Schönefeld</title>
-      <link>/authors/victoria-schonefeld/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/victoria-schonefeld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yi Ding</title>
-      <link>/authors/yi-ding/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/yi-ding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Youngki Hong</title>
-      <link>/authors/youngki-hong/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/youngki-hong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>İlker Dalğar</title>
-      <link>/authors/ilker-dalgar/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ilker-dalgar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ricky Jeffrey</title>
-      <link>/authors/ricky-jeffrey/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ricky-jeffrey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ting Luo</title>
-      <link>/authors/ting-luo/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ting-luo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wenwen Zheng</title>
-      <link>/authors/wenwen-zheng/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/wenwen-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xi-Nian Zuo</title>
-      <link>/authors/xi-nian-zuo/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/xi-nian-zuo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaoming Jiang</title>
-      <link>/authors/xiaoming-jiang/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/xiaoming-jiang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ziyang Lyu</title>
-      <link>/authors/ziyang-lyu/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ziyang-lyu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kyle G. Ratner</title>
-      <link>/authors/kyle-g.-ratner/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/kyle-g.-ratner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marija V. Čolić</title>
-      <link>/authors/marija-v.-colic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/marija-v.-colic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Siegwart Lindenberg</title>
-      <link>/authors/siegwart-lindenberg/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/siegwart-lindenberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sophia C. Weissgerber</title>
-      <link>/authors/sophia-c.-weissgerber/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/sophia-c.-weissgerber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hua Guo</title>
-      <link>/authors/hua-guo/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/hua-guo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mingjun Zhang</title>
-      <link>/authors/mingjun-zhang/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/mingjun-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simon B. Eickhoff</title>
-      <link>/authors/simon-b.-eickhoff/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/simon-b.-eickhoff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xin Di</title>
-      <link>/authors/xin-di/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/xin-di/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chuanpeng Hu</title>
-      <link>/authors/chuanpeng-hu/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/chuanpeng-hu/</guid>
-      <description></description>
     </item>
     
   </channel>
