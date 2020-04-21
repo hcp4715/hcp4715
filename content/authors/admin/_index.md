@@ -46,6 +46,6 @@ user_groups:
 - Visitors
 ---
 
-Dr. Chuan-Peng Hu is a post-doc researcher at Leibniz Institute for Resilience Research, Mainz, Germany. His primary research interest is how people keep resilient in adversity (e.g., poverty). He values open, transparency, and reproducibility in research and leads the Chinese Open Science Network.
+Dr. Chuan-Peng Hu is a post-doc researcher at Leibniz Institute for Resilience Research, Mainz, Germany. His research interests include self-referential process (i.e., how human process self-related information), SES and resilience, and reproducibility. He values open, transparency, and reproducibility in research, initiated the Chinese Open Science Network. Also, he is an assisitant director of Psychological Science Accelerator.
 
-Grew up in a village near Yangtze River in Hubei, a central province in China, Chuan-Peng loves outdoors, e.g., rock climbing, mountaineering, and hiking. He had climbed four mountains over 5000 meters and reached about 6 km of the Chola Mountain, Sichuan Province, China on June 2014.
+In his free time, Chuan-Peng loves outdoor sports, e.g., rock climbing, mountaineering, and hiking.
