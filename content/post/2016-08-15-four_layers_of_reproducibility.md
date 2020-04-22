@@ -11,11 +11,7 @@ categories:
 tags:
   - reproducibility
 ---
-此文是我在自己的微信公众号上的一篇文章，本意是在记录一下自己对于可重复性（reproducibility）的理解。原文见<a href="http://mp.weixin.qq.com/s?__biz=MzA4NzAwOTk1Mw==&mid=2649293732&idx=1&sn=8e6a158bfbf579a378ddc9f6d17373f7#rd" target="_blank">这里</a>。欢迎关注本人公众号Brainclimber:
-
-[<img class="size-full wp-image-613 alignnone" src="http://huchuanpeng.com/wp-content/uploads/2016/08/qrcode.bmp" alt="qrcode" width="129" height="129" />](http://huchuanpeng.com/wp-content/uploads/2016/08/qrcode.bmp)
-
-&nbsp;
+此文是我在自己的微信公众号上的一篇文章，本意是在记录一下自己对于可重复性（reproducibility）的理解。原文见<a href="http://mp.weixin.qq.com/s?__biz=MzA4NzAwOTk1Mw==&mid=2649293732&idx=1&sn=8e6a158bfbf579a378ddc9f6d17373f7#rd" target="_blank">这里</a>。欢迎关注Open Science 公众号(ID: OpenScience).
 
 最近看到了讨论科研中可重复性问题的<a href="http://library.fora.tv/2016/08/06/the_replication_crisis" target="_blank">视频</a>（不仅是心理学），其中Brian Nosek提到了可重复性(reproducibility)的几层含义(23:45&#8217;到25:30&#8242;)。我觉得非常有意思，这也是我们在讨论可重复性时因为篇幅的限制而未讨论的问题[见引文]，所以正好在展开说一下。
 

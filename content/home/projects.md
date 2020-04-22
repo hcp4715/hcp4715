@@ -26,22 +26,22 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Positive self-bias in perceptual decision-making"
+    tag = "Self"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Consolidation of positive memories"
+    tag = "Memory"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

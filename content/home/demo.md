@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Know Thyself"
-subtitle = "(Hu)man is the measure of all things, but, what is the measure of human?"
+subtitle = "If (Hu)man is the measure of all things, what is the measure of human?"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

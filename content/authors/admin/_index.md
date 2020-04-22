@@ -10,12 +10,12 @@ education:
   - course: Master of Education in Psychology
     institution: Hubei University
     year: 2012
-  - course: BSc in Psychology & Bachalor in Law
+  - course: BSc in Psychology & Bachelor in Law
     institution: Hubei University
     year: 2009
 email: "hcp4715 at gmail.com"
 interests:
-- Positive Self
+- Positive self-bias
 - Socioeconomic status/poverty
 - Reproducibility & meta-research
 name: Chuan-Peng Hu
