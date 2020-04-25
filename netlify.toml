@@ -9,3 +9,11 @@
   HUGO_VERSION = "0.55.6"
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.55.6"
+  
+  [[redirects]]
+  from = "/en/*"
+  to = "/en/index.html"
+  
+  [[redirects]]
+  from = "/zh/*"
+  to = "/zh/index.html"
