@@ -37,6 +37,19 @@ hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
+[Languages]
+  [Languages.en]
+    #baseurl = "https://huchuanpeng.com"
+    title = "Chuan-Peng Hu"
+    weight = 1
+    languageName = "English"
+
+  [Languages.zh]
+    #baseurl = "https://huchuanpeng.com/zh"
+    title = "胡传鹏"
+    weight = 2
+    languageName = "简体中文"
+
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
