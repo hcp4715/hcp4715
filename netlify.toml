@@ -17,3 +17,11 @@
   [[redirects]]
   from = "/zh/*"
   to = "/zh/index.html"
+  
+  force = true
+
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 200
+
+  # Redirect based on browser language, geolocation, and/or identity role.
+  conditions = {Language = ["zh"]}
