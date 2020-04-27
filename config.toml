@@ -9,7 +9,7 @@ title = "Dr. Chuan-Peng Hu (胡传鹏)"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://hcp4715.netlify.app/"
+#baseurl = "https://hcp4715.netlify.app/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
@@ -46,7 +46,7 @@ removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issu
 
   [Languages.zh]
     #baseurl = "https://huchuanpeng.com/zh"
-    title = "胡传鹏"
+    title = "胡传鹏的个人网站"
     weight = 2
     languageName = "简体中文"
 

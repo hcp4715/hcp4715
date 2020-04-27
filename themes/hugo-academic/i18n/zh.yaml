@@ -29,7 +29,7 @@
 - id: btn_code
   translation: 代码
 - id: btn_dataset
-  translation: 数据集
+  translation: 数据
 - id: btn_project
   translation: 项目
 - id: btn_poster
@@ -41,7 +41,7 @@
 - id: btn_download
   translation: 下载
 - id: interests
-  translation: 兴趣爱好
+  translation: 研究兴趣
 - id: education
   translation: 教育经历
 - id: user_profile_latest
@@ -53,7 +53,7 @@
 - id: more_pages
   translation: 查看全部
 - id: more_posts
-  translation: 查看全部文章
+  translation: 查看全部博客
 - id: more_talks
   translation: 查看全部演讲
 - id: more_publications
@@ -97,7 +97,7 @@
 - id: pub_book_section
   translation: 章节
 - id: pub_thesis
-  translation: 论文
+  translation: 学位论文
 - id: pub_patent
   translation: 专利
 - id: open_project_site
@@ -107,7 +107,7 @@
 - id: publications
   translation: 出版物
 - id: talks
-  translation: 演讲
+  translation: 学术报告
 - id: projects
   translation: 项目
 - id: search
