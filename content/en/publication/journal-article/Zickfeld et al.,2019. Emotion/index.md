@@ -7,7 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Emotion*"
-url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/29888936"
 doi: "https://doi.org/10.1037/emo0000450"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/29888936"
+url_dataset: https://osf.io/cydaw/
 ---
 

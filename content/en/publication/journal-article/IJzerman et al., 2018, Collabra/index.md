@@ -9,5 +9,6 @@ featured: false
 publication: "*Collabra. Psychol.*"
 url_pdf: "https://www.collabra.org/article/10.1525/collabra.165/ https://www.collabra.org/articles/10.1525/collabra.165/"
 doi: "https://doi.org/10.1525/collabra.165"
+url_dataset: https://osf.io/6yu5d/
 ---
 

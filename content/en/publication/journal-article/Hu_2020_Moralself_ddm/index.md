@@ -23,5 +23,5 @@ publishDate: "2020-04-06T00:00:00Z"
 title: "Good Me Bad Me: Prioritization of the Good-Self During Perceptual Decision-Making"
 url_code: https://github.com/hcp4715/moralSelf_ddm
 url_dataset: https://github.com/hcp4715/moralSelf_ddm
-url_pdf: https://psyarxiv.com/9fczh
+url_pdf: https://www.collabra.org/article/10.1525/collabra.301/
 ---

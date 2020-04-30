@@ -15,7 +15,7 @@ image:
   caption: 'Image credit: [**The Journal**](https://www.sciencedirect.com/science/article/pii/S0149763415300920)'
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Positive Self]
 publication: '*Neuroscience & Biobehavioral Reviews, 61*, 197–207'
 publication_short: ""
 publication_types:
@@ -28,7 +28,7 @@ tags:
 title: "Distinct and common aspects of physical and psychological self-representation in the brain: A meta-analysis of self-bias in facial and self-referential judgements"
 url_code:
 url_dataset: "http://anima.fz-juelich.de/studies/Hu_2015_self"
-url_pdf:
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0149763415300920
 url_poster:
 url_project:
 url_slides:
