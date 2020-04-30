@@ -10,6 +10,7 @@ categories:
   - Methodology
 tags:
   - reproducibility
+  - 可重复性
 ---
 此文是我在自己的微信公众号上的一篇文章，本意是在记录一下自己对于可重复性（reproducibility）的理解。原文见<a href="http://mp.weixin.qq.com/s?__biz=MzA4NzAwOTk1Mw==&mid=2649293732&idx=1&sn=8e6a158bfbf579a378ddc9f6d17373f7#rd" target="_blank">这里</a>。欢迎关注Open Science 公众号(ID: OpenScience).
 
