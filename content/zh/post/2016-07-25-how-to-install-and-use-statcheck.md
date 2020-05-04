@@ -2,7 +2,7 @@
 id: 508
 title: 如何安装与使用statcheck工具包
 date: 2016-07-25T07:38:54+08:00
-author: Chuanpeng Hu
+author: hcp4715
 layout: post
 guid: http://huchuanpeng.com/?p=508
 permalink: /2016/07/25/how-to-install-and-use-statcheck/
@@ -15,6 +15,7 @@ tags:
   - 可重复性
   - reproducibility
 ---
+
 2016.09.23更新：statcheck的作者发布了一个[manual](http://rpubs.com/michelenuijten/202816).
 
 2016.10.21更新：statcheck发布了[在线版](http://statcheck.io/).

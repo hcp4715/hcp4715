@@ -21,7 +21,7 @@ interests:
 name: Chuan-Peng Hu
 organizations:
 - name: Leibniz Institute for Resilience Research (LIR)
-  url: ""
+  url: "https://lir-mainz.de/en/lir"
 role: Post-doc Researcher
 social:
 - icon: envelope
@@ -46,6 +46,6 @@ user_groups:
 - Visitors
 ---
 
-Dr. Chuan-Peng Hu is a post-doc researcher at Leibniz Institute for Resilience Research, Mainz, Germany. His research interests include self-referential process (i.e., how human process self-related information), SES and resilience, and reproducibility. He values open, transparency, and reproducibility in research, initiated the Chinese Open Science Network. Also, he is an assisitant director of Psychological Science Accelerator.
+Dr. Chuan-Peng Hu is a post-doc researcher at Leibniz Institute for Resilience Research, Mainz, Germany. His research interests include self-referential process (i.e., how human process self-related information), SES and resilience, and reproducibility. He values open, transparency, and reproducibility in research, initiated the [Chinese Open Science Network](https://osf.io/9d7y4/). Also, he is an assisitant director of [Psychological Science Accelerator](https://psysciacc.org/).
 
 In his free time, Chuan-Peng loves outdoor sports, e.g., rock climbing, mountaineering, and hiking.
