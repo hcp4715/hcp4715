@@ -1,5 +1,5 @@
 ---
-title: "P-value, Confidence Intervals and Statistical Inference: A New Dataset of Misinterpretation"
+title: "Beyond psychology: prevalence of p value and confidence interval misinterpretation across different fields"
 date: 2020-02-03
 publishDate: 2020-02-03
 authors: ["Lyu, X-K.", "Xu, Y", "Zhao, X.", "Zuo, X-N", "Hu, C-P."]
