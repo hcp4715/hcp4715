@@ -46,6 +46,6 @@ user_groups:
 - Visitors
 ---
 
-Dr. Chuan-Peng Hu is a post-doc researcher at Leibniz Institute for Resilience Research, Mainz, Germany. His research interests include self-referential process (i.e., how human process self-related information), SES and resilience, and reproducibility. He values open, transparency, and reproducibility in research, initiated the [Chinese Open Science Network](https://osf.io/9d7y4/). Also, he is an assisitant director of [Psychological Science Accelerator](https://psysciacc.org/).
+I am a post-doc researcher at Leibniz Institute for Resilience Research ([LIR](https://lir-mainz.de/en/lir)), Mainz, Germany. My research interests include self-referential process (i.e., how human process self-related information), SES and resilience, and reproducibility. I value open, transparency, and reproducibility in research, initiated the [Chinese Open Science Network](https://osf.io/9d7y4/), a grassroot network for promoting awareness of reproducibility and open science using Chinese. I am an assisitant director of [Psychological Science Accelerator](https://psysciacc.org/), a distributed laboratory network.
 
-In his free time, Chuan-Peng loves outdoor sports, e.g., rock climbing, mountaineering, and hiking.
+In my free time, I loves outdoor sports, e.g., rock climbing, mountaineering, and hiking.
