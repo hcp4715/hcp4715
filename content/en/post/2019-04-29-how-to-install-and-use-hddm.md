@@ -13,8 +13,10 @@ tags:
   - DDM
   - perceptual decision-making
   - python
-  - self
 ---
+
+August 2020 update: I've created a [HDDM docker image](https://hub.docker.com/r/hcp4715/hddm), which can be easily installed and used after installing [docker](https://www.docker.com/).
+
 HDDM is a python package for drift diffusion model (DDM, see http://ski.clps.brown.edu/hddm_docs/). I used it to decompose the reaction time and accuracy data in my recent manuscript: <a rel="noreferrer noopener" aria-label="Good Me Bad Me: Does Valence Influence Self-Prioritization During Perceptual Decision-Making (opens in a new tab)" href="https://psyarxiv.com/9fczh" target="_blank">Good Me Bad Me: Does Valence Influence Self-Prioritization During Perceptual Decision-Making</a>.
 
 Here are a few tips on how to install and use HDDM, in case that you plan to replicate my analyses using the code and data I share <a rel="noreferrer noopener" aria-label="here on Github (opens in a new tab)" href="https://github.com/hcp4715/moralSelf_ddm" target="_blank">here on Github</a>. 

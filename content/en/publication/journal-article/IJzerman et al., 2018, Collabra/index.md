@@ -6,8 +6,8 @@ authors: ["IJzerman, H.", "Lindenberg, S. M.", "Dalğar, İ.", "Weissgerber, S."
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Collabra. Psychol.*"
-url_pdf: "https://www.collabra.org/article/10.1525/collabra.165/ https://www.collabra.org/articles/10.1525/collabra.165/"
+publication: "*Collabra. Psychol., 4*(1), 37"
+url_pdf: "https://www.collabra.org/articles/10.1525/collabra.165/"
 doi: "https://doi.org/10.1525/collabra.165"
 url_dataset: https://osf.io/6yu5d/
 ---

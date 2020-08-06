@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Dr. Chuan-Peng Hu (胡传鹏)"
+title = "Hu Chuan-Peng (胡传鹏)"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -40,7 +40,7 @@ removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issu
 [Languages]
   [Languages.en]
     #baseurl = "https://huchuanpeng.com"
-    title = "Chuan-Peng Hu"
+    title = "HU Chuan-Peng"
     weight = 1
     languageName = "English"
 

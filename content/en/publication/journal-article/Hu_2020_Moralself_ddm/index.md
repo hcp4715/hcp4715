@@ -14,7 +14,7 @@ image:
   preview_only: false
 projects:
 - Perceptual Positive Self Bias
-publication: ""
+publication: "*Collabra: Psychology, 6*(1), 20"
 publication_short: ""
 publication_types:
 - "2"

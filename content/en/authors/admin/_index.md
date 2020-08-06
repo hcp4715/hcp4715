@@ -18,7 +18,7 @@ interests:
 - Positive self-bias
 - Socioeconomic status/poverty
 - Reproducibility & meta-research
-name: Chuan-Peng Hu
+name: Hu Chuan-Peng
 organizations:
 - name: Leibniz Institute for Resilience Research (LIR)
   url: "https://lir-mainz.de/en/lir"
