@@ -15,14 +15,14 @@ education:
     year: 2009
 email: "hcp4715 at gmail.com"
 interests:
-- 积极自我的认知机制
+- 自我认知
 - 社会经济地位与脑
 - 可重复性/元研究
 name: 胡传鹏
 organizations:
-- name: Leibniz Institute for Resilience Research (LIR)
-  url: "https://lir-mainz.de/en/lir"
-role: 博士后
+- name: 南京师范大学心理学院
+  url: "http://xlxy.njnu.edu.cn/"
+role: 教师
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,6 +46,6 @@ user_groups:
 - Visitors
 ---
 
-我叫胡传鹏，目前在德国美茵茨(Mainz)的 Leibniz Institute for Resilience Research ([LIR](https://lir-mainz.de/en/lir))进行博士后研究工作。我的主要研究兴趣包括：积极自我概念的认知加工过程、社会经济地位与脑、研究的可重复性与元研究。我相信，开放性、透明度和可重复性在基础研究中是至关重要的。基于这个理念，我参与了一些与开放式科学(Open Science)相关的活动，发起了[the Chinese Open Science Network](https://osf.io/9d7y4/)（微信公众号：OpenScience）。同时，我也参与了一些国际合作，目前在[心理科学加速器](https://psysciacc.org/)这个全球的科学心理学研究者合作网络中担任Assisitant Director，也是[Center for Open Science](https://cos.io)在中国大陆的第一位推广大使。行胜于言，我尽最大努力将自己的研究保持开放与透明，大部分发表论文中的数据与代码均是开放的。
+我叫胡传鹏，就职于[南京师范大学心理学院](http://xlxy.njnu.edu.cn/)。我的主要研究兴趣包括：积极自我概念的认知加工过程、社会经济地位与脑、研究的可重复性与元研究。我相信，开放性、透明度和可重复性在基础研究中是至关重要的。基于这个理念，我参与了与开放式科学(Open Science)相关的活动，发起了[the Chinese Open Science Network](https://osf.io/9d7y4/)（微信公众号：OpenScience）。同时，我也参与了一些国际合作，目前在[心理科学加速器](https://psysciacc.org/)这个全球的科学心理学研究者合作网络中担任Assisitant Director，也是[Center for Open Science](https://cos.io)在中国大陆的第一位推广大使。行胜于言，我尽最大努力将自己的研究保持开放与透明，大部分发表论文中的数据与代码均是开放的。
 
 科研之外，我喜欢户外活动，包括攀岩、登山和徒步等。 

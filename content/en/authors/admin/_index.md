@@ -15,14 +15,14 @@ education:
     year: 2009
 email: "hcp4715 at gmail.com"
 interests:
-- Positive self-bias
+- Social cognition
 - Socioeconomic status/poverty
 - Reproducibility & meta-research
 name: Hu Chuan-Peng
 organizations:
-- name: Leibniz Institute for Resilience Research (LIR)
-  url: "https://lir-mainz.de/en/lir"
-role: Post-doc Researcher
+- name: School of Psychology, Nanjing Normal University
+  url: "http://schools.njnu.edu.cn/psy/"
+role: Faculty member
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,6 +46,6 @@ user_groups:
 - Visitors
 ---
 
-I am a post-doc researcher at Leibniz Institute for Resilience Research ([LIR](https://lir-mainz.de/en/lir)), Mainz, Germany. My research interests include self-referential process (i.e., how human process self-related information), SES and resilience, and reproducibility. I value open, transparency, and reproducibility in research, initiated the [Chinese Open Science Network](https://osf.io/9d7y4/), a grassroot network for promoting awareness of reproducibility and open science using Chinese. I am an assisitant director of [Psychological Science Accelerator](https://psysciacc.org/), a distributed laboratory network.
+I am a faculty member of the [School of Psychology](https://lir-mainz.de/en/lir), Nanjing Normal University, Nanjing, China. My research interests include social cognition (i.e., how human process self- and other-related information), SES/poverty, and reproducibility. I value open, transparency, and reproducibility in research, initiated the [Chinese Open Science Network](https://osf.io/9d7y4/), a grassroot network for promoting awareness of reproducibility and open science using Chinese. I am an assisitant director of [Psychological Science Accelerator](https://psysciacc.org/), a distributed laboratory network.
 
 In my free time, I loves outdoor sports, e.g., rock climbing, mountaineering, and hiking.

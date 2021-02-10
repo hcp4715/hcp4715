@@ -1,4 +1,4 @@
-I am Dr. Hu Chuan-Peng, a post-doc research at [Leibniz Institute for Resilience Research (LIR)](https://lir-mainz.de/en/lir). 
+I am Dr. Hu Chuan-Peng, a new faculty member of the [School of Psychology](http://schools.njnu.edu.cn/psy/), [Nanjing Normal University](http://en.njnu.edu.cn/).
 
 Here is [my personal website](https://huchuanpeng.com/).
 
