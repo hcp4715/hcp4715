@@ -46,6 +46,6 @@ user_groups:
 - Visitors
 ---
 
-I am a faculty member of the [School of Psychology](https://lir-mainz.de/en/lir), Nanjing Normal University, Nanjing, China. My research interests include social cognition (i.e., how human process self- and other-related information), SES/poverty, and reproducibility. I value open, transparency, and reproducibility in research, initiated the [Chinese Open Science Network](https://osf.io/9d7y4/), a grassroot network for promoting awareness of reproducibility and open science using Chinese. I am an assistant director of [Psychological Science Accelerator](https://psysciacc.org/), a distributed laboratory network.
+I am a faculty member of the [School of Psychology](http://schools.njnu.edu.cn/psy/), Nanjing Normal University, Nanjing, China. My research interests include social cognition (i.e., how human process self- and other-related information), SES/poverty, and reproducibility. I value open, transparency, and reproducibility in research, initiated the [Chinese Open Science Network](https://open-sci.cn/), a grassroots network for promoting awareness of reproducibility and open science using Chinese. I am an assistant director of [Psychological Science Accelerator](https://psysciacc.org/), a distributed laboratory network.
 
 In my free time, I loves outdoor sports, e.g., rock climbing, mountaineering, and hiking.
