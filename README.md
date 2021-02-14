@@ -6,7 +6,7 @@ This repo is to create my website. You can create similar personal website for y
 
 To do that, you need first install `blogdown` and `hugo-academic` theme. See [here](https://evamaerey.github.io/what_how_guides/academic_website_w_blogdown) for a quick start on blogdown. 
 
-`install.packages(“blogdown”)`
+`install.packages("blogdown")`
 `blogdown::install_hugo(force = TRUE)`
 
 After that, run:

@@ -15,6 +15,8 @@ tags:
   - python
 ---
 
+**Feburary 14, 2021 update: Please note that this blog post was outdated because of the updates of Anaconda/miniconda.**
+
 August 2020 update: I've created a [HDDM docker image](https://hub.docker.com/r/hcp4715/hddm), which can be easily installed and used after installing [docker](https://www.docker.com/).
 
 HDDM is a python package for drift diffusion model (DDM, see http://ski.clps.brown.edu/hddm_docs/). I used it to decompose the reaction time and accuracy data in my recent manuscript: <a rel="noreferrer noopener" aria-label="Good Me Bad Me: Does Valence Influence Self-Prioritization During Perceptual Decision-Making (opens in a new tab)" href="https://psyarxiv.com/9fczh" target="_blank">Good Me Bad Me: Does Valence Influence Self-Prioritization During Perceptual Decision-Making</a>.
