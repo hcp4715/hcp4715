@@ -45,18 +45,28 @@ tags: Team
 #### 大致的流程
 报名后我会约时间与你进行交流，讨论可能的项目。大约几周后确定我们是否能够进行合作。一旦正式确立合作，我会邀请您参加每周的文献讨论，与我的小团队一起学习和研究。
 
-#### 招募人数
+#### 招募时效
 长期有效
 
 ### 附录（名字加粗的作者为与我合作的本科生或者研究生）
 **王珺, 宋琼雅, 许岳培, 贾彬彬, 陆春雷,** 陈曦, 戴紫旭, 黄之玥, 李振江, 林景希, 罗婉莹, 施赛男, 张莹莹, 臧玉峰, 左西年, 胡传鹏. (2021). 解读不显著结果：基于500个实证研究的量化分析. 心理科学进展, 29(3), 381-393. 
+
 **蔡玉清**, 董书阳, 袁帅, 胡传鹏. (2020). 变量间的网络分析模型及其应用. 心理科学进展, 28(1), 178-190. 
+
 **Liu, Q.-L.**, Wang, F., Yan, W., Peng, K., Sui, J., & Hu, C.-P. (2020). Questionnaire Data from the Revision of a Chinese Version of Free Will and Determinism Plus Scale. Journal of Open Psychology Data, 8(1), 1. 
+
 Lyu, X.-K., **Xu, Y.**, Zhao, X.-F., Zuo, X.-N., & Hu, C.-P. (2020). Beyond psychology: prevalence of p value and confidence interval misinterpretation across different fields. Journal of Pacific Rim Psychology, 14, e6. 
+
 **刘媛媛, 丁一,** 彭凯平, 胡传鹏. (2019). 多项式加工树模型在社会心理学中的应用. 心理科学, 42(2), 422-429. 
+
 **王珺, 宋琼雅, 许岳培, 贾彬彬,** 胡传鹏. (2019). 效应量置信区间的原理及其实现. 心理技术与应用, 7(5), 284-296. 
+
 **殷继兴**, 胡传鹏. (2019). 神经科学偏见效应：可重复性与心理机制. 心理科学进展, 27(12), 1988-1995. 
+
 Hu, C.-P., **Yin, J.-X.**, Lindenberg, S. M., Dalğar, İ., Weissgerber, S., Vergara, R., . . . IJzerman, H. (2019). Data from the Human Penguin Project, a cross-national dataset testing principles from social thermoregulation theory. Scientific Data, 6(1), 32. 
+
 **Lyu, Z.**, Peng, K., & Hu, C.-P. (2018). P-value, Confidence Intervals and Statistical Inference: A New Dataset of Misinterpretation. Front Psychol, 9, 868. 
+
 Hu, C., Di, X., Eickhoff, S. B., **Zhang, M.**, Peng, K., Guo, H., & Sui, J. (2016). Distinct and common aspects of physical and psychological self-representation in the brain: A meta-analysis of self-bias in facial and self-referential judgements. Neurosci Biobehav Rev, 61, 197–207. 
+
 胡传鹏, 邸新, **李佳蔚**, 隋洁, & 彭凯平. (2015). 神经成像数据的元分析. 心理科学进展, 23(7), 1118–1129. doi:10.3724/sp.j.1042.2015.01118
