@@ -12,7 +12,7 @@ I am teaching three courses related to statistics.
 
 **Psychological Statistics《心理统计学》** for undergrads. All slide are prepared using `RMarkdown` and are avialable [here](https://github.com/Chuan-Peng-Lab/PsyStats). This course last for two semesters.
 
-**Advanced Psychological Statistics《高级心理统计学》** for undergrads. This course focuses Bayesian statistics, I used [*Bayes Rules!*](https://www.bayesrulesbook.com/) as the textbook but [`PyMC`](https://www.pymc.io/welcome.html) as the programming language.  All slide are prepared using `Jupter Notebook` and are avialable [here](https://gitee.com/hcp4715/bayesian-analysis-nnupsy). This course is in the autumn-winter semester.
+**Advanced Psychological Statistics《高级心理统计学》** for undergrads. This course focuses Bayesian statistics, I used [*Bayes Rules!*](https://www.bayesrulesbook.com/) as the textbook but [`PyMC`](https://www.pymc.io/welcome.html) as the programming language.  All slide are prepared using `Jupyter Notebook` and are avialable [here](https://gitee.com/hcp4715/bayesian-analysis-nnupsy). This course is in the autumn-winter semester.
 
 **R for Psychological Research《R语言在心理学研究中的应用》** for graduate students. This goal of this course is introducing [R language](https://www.r-project.org/) to more students in psychology. All slide are prepared using `RMarkdown` and are avialable [here](https://github.com/hcp4715/R4Psy). This course is in the spring-summer semester.
 
