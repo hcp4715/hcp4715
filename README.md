@@ -22,4 +22,4 @@ I am teaching three courses related to statistics.
 **R for Psychological Research《R语言在心理学研究中的应用》** for graduate students. This goal of this course is introducing [R language](https://www.r-project.org/) to more students in psychology. All slide are prepared using `RMarkdown` and are avialable [here](https://github.com/hcp4715/R4Psy). This course is in the spring-summer semester.
 
 ## Open science
-I support Open Science and co-found [the Chinese Open Science Network](https://open-sci.cn/), please see our position paper in [AMPPS](https://journals.sagepub.com/doi/10.1177/25152459221144986).
+I support Open Science and co-found [the Chinese Open Science Network](https://open-sci.cn/), please see our position paper in [AMPPS](https://journals.sagepub.com/doi/10.1177/25152459221144986) or [book chapter](https://osf.io/mw72e).
