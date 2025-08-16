@@ -12,7 +12,7 @@ I support **Open Science** and co-found [the Chinese Open Science Network](https
 
 **Dataset 3**: A dataset of cognitive ontology for neuroimaging studies of self-reference, which meta data extracted from all published fMRI studies that employed **self-referential paradigm** ([dataset](https://doi.org/10.57760/sciencedb.j00001.00469), [data descriptor](https://doi.org/10.11922/11-6035.csd.2022.0047.zh)). These data can be used for coordinate-based meta-analyses of fMRI (e.g., [Hu et al., 2016](doi.org/10.1016/j.neubiorev.2015.12.003)) or other purposes.
 
-**Dataset 4**: A Chinese **Social Evaluative Words** List ([data](https://doi.org/10.57760/sciencedb.11640), [preprint](https://psyarxiv.com/9cm7z/), [code](https://github.com/Chuan-Peng-Lab/SEVproject)), which include Chinese words that describe people's appearance,socioeconomic status, sociability, competence, and morality. 
+**Dataset 4**: An Extended Chinese **Social Evaluative Words** List ([data](https://doi.org/10.57760/sciencedb.11640), [article](https://doi.org/10.3758/s13428-025-02760-w), [code](https://github.com/Chuan-Peng-Lab/SEVproject)), which include Chinese words that describe people's appearance,socioeconomic status, sociability, competence, and morality. 
 
 Please see the website of [my lab](https://huchuanpeng.com/) for more about my research, please see our [github account](https://github.com/Chuan-Peng-Lab) for data and code our projects.
 
