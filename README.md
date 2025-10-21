@@ -3,16 +3,18 @@
 ## Research
 I am interested in how human beings process **self-related information**, with a “3M” approach: meta-science, (cognitive) modeling, and (psychological) measurement. We are also trying to apply the “3M” approach to the mental health issues in the real world. 
 
-I support **Open Science** and co-found [the Chinese Open Science Network](https://open-sci.cn/), please see our position paper in [AMPPS](https://journals.sagepub.com/doi/10.1177/25152459221144986) or [book chapter](https://osf.io/mw72e). I have contributed to a series of Big-Team Science (BTS).
+I support **Open Science** and co-found [the Chinese Open Science Network](https://open-sci.cn/), please see our position paper in [AMPPS](https://journals.sagepub.com/doi/10.1177/25152459221144986) or [book chapter](https://osf.io/mw72e). Also, I have contributed to a series of Big-Team Science (BTS) and collected data in China. Below are the resources we shared so far.
 
 ### Open Data  (开放数据)
-**Dataset 1**: Data from the **Human Penguin Project** ([data](https://osf.io/h52d3/), [data descriptor](https://www.nature.com/articles/s41597-019-0029-2), [original study](https://doi.org/10.1525/collabra.165)). 
+**Dataset 1**: Data from the **Human Penguin Project** ([data](https://osf.io/h52d3/), [data descriptor](https://www.nature.com/articles/s41597-019-0029-2), [original study](https://doi.org/10.1525/collabra.165)). This dataset includes 1755 participants' (from 12 countries) data measured by multiple psychological scales.
 
-**Dataset 2**: Questionnaire Data From the Revision of a **Chinese Version of Free Will and Determinism Plus Scale** ([data](https://OSF.IO/T2NSW), [data descriptor](http://doi.org/10.5334/jopd.49), [original study](https://osf.io/e53fk)). An updated study on the measurement invariance of FAD+ scale across four languages was published in Royal Society Open Science in [2024](https://doi.org/10.1098/rsos.220876). 
+**Dataset 2**: Questionnaire Data From the Revision of a **Chinese Version of Free Will and Determinism Plus Scale** ([data](https://OSF.IO/T2NSW), [data descriptor](http://doi.org/10.5334/jopd.49), [original study](https://osf.io/e53fk)). An updated study on the measurement invariance of FAD+ scale across four languages was published in Royal Society Open Science in [2024](https://doi.org/10.1098/rsos.220876). Both datasets contain questionnaire data focus on belief in free will.
 
-**Dataset 3**: A dataset of cognitive ontology for neuroimaging studies of self-reference, which meta data extracted from all published fMRI studies that employed **self-referential paradigm** ([dataset](https://doi.org/10.57760/sciencedb.j00001.00469), [data descriptor](https://doi.org/10.11922/11-6035.csd.2022.0047.zh)). These data can be used for coordinate-based meta-analyses of fMRI (e.g., [Hu et al., 2016](doi.org/10.1016/j.neubiorev.2015.12.003)) or other purposes.
+**Dataset 3**: A dataset of cognitive ontology for neuroimaging studies of self-referential process of human, with meta data extracted from 136 published neuroimaging studies that employed **self-referential encoding task** ([dataset](https://doi.org/10.57760/sciencedb.j00001.00469), [data descriptor](https://doi.org/10.11922/11-6035.csd.2022.0047.zh)). These data can be used for coordinate-based meta-analyses of fMRI (e.g., [Hu et al., 2016](doi.org/10.1016/j.neubiorev.2015.12.003)) or other purposes.
 
 **Dataset 4**: An Extended Chinese **Social Evaluative Words** List ([data](https://doi.org/10.57760/sciencedb.11640), [article](https://doi.org/10.3758/s13428-025-02760-w), [code](https://github.com/Chuan-Peng-Lab/SEVproject)), which include Chinese words that describe people's appearance,socioeconomic status, sociability, competence, and morality. 
+
+**Dataset 5**: A dataset of trial-level data that employed self-matching task ([Sui et al., 2012]()). We curated all trial-levels data available and standardized them for future use([dataset](https://github.com/Chuan-Peng-Lab/SPE_Database). This dataset now include trial-level data from 44 papers, covering 70 datasets and 3603 participants in total, and is continuing evolving.
 
 Please see the website of [my lab](https://huchuanpeng.com/) for more about my research, please see our [github account](https://github.com/Chuan-Peng-Lab) for data and code our projects.
 
