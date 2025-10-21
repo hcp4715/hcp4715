@@ -14,7 +14,7 @@ I support **Open Science** and co-found [the Chinese Open Science Network](https
 
 **Dataset 4**: An Extended Chinese **Social Evaluative Words** List ([data](https://doi.org/10.57760/sciencedb.11640), [article](https://doi.org/10.3758/s13428-025-02760-w), [code](https://github.com/Chuan-Peng-Lab/SEVproject)), which include Chinese words that describe people's appearance,socioeconomic status, sociability, competence, and morality. 
 
-**Dataset 5**: A dataset of trial-level data that employed self-matching task ([Sui et al., 2012]()). We curated all trial-levels data available and standardized them for future use([dataset](https://github.com/Chuan-Peng-Lab/SPE_Database). This dataset now include trial-level data from 44 papers, covering 70 datasets and 3603 participants in total, and is continuing evolving.
+**Dataset 5**: A dataset of trial-level data that employed self-matching task ([Sui et al., 2012](http://www.ncbi.nlm.nih.gov/pubmed/22963229)). We curated all trial-levels data available and standardized them for future use([dataset](https://github.com/Chuan-Peng-Lab/SPE_Database). This dataset now include trial-level data from 44 papers, covering 70 datasets and 3603 participants in total, and is continuing evolving.
 
 Please see the website of [my lab](https://huchuanpeng.com/) for more about my research, please see our [github account](https://github.com/Chuan-Peng-Lab) for data and code our projects.
 
